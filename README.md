@@ -52,6 +52,6 @@ git status
 git add .                
 git commit -m "How To Create a Repository"          
 git branch -M master          
-git remote ass origin https://github.com/WiTheR60334/How-to-make-a-Repository     
+git remote add origin https://github.com/WiTheR60334/How-to-make-a-Repository     
 git push -u origin master 
 ```
